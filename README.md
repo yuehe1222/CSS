@@ -1,4 +1,4 @@
-# Code for CCSS Algorithm
+# Code for CSS Algorithm
 
 This repository contains a reference implementation of the algorithms for the paper:
 "On Conductance-based Community Search at Billion Scale".
